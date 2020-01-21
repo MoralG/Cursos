@@ -2,4 +2,4 @@
 
 ![Openwebinars](image/Openwebinars.png)
 
-![SSH](cursos/SSH)
+![SSH](cursos/SSH.pdf)
