@@ -1,2 +1,5 @@
 # Cursos
-Repositorio para guardar mis certificados de los cursos realizados.
+
+![Openwebinars](image/Openwebinars.png)
+
+![SSH](cursos/SSH)
